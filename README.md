@@ -4,7 +4,7 @@
     <tr>
       <td><b>연락 정보</b></td>
       <td width="50%" rowspan="4">
-        <img alt="증명사진.jpg" src="./assets/증명사진.jpg" />
+        <img alt="증명사진.jpg" src="./assets/증명사진_정각.jpg" />
       </td>
     </tr>
     <tr>
