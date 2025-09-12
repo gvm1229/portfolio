@@ -10,8 +10,8 @@
     <tr>
       <td>
         <ul>
-          <li>email: hojini1229@gmail.com</li>
-          <li>tel: 010-3229-7426</li>
+          <li>hojini1229@gmail.com</li>
+          <li>010-3229-7426</li>
         </ul>
       </td>
     </tr>
