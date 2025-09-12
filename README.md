@@ -125,7 +125,6 @@ flowchart TD
 | **사용 스택 (프런트엔드)** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) |
 | **사용 스택 (배포)** | ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge) |
 
-
 **문제 정의:** 사내 솔루션에 없는 맞춤형 기능과 디자인 요구사항이 다수 접수된 상황. 클라이언트 홈페이지에 대한 작업을 병렬로 2\~4개 진행해야 하는 상황 (재직 기간 동안 총 6개 참여).
 
 **문제 해결:** 필요 기능에 맞춰 커스텀 컴포넌트 추가 개발, Storybook 을 사용한 테스트 및 리뷰 프로세스 별도 수립. AWS S3 를 사용해 정적 웹사이트 배포, GitHub 연동으로 디버깅 효율화.
@@ -143,6 +142,10 @@ flowchart TD
 | **참가 인원 및 역할** | **프로젝트 리드 및 사수:** 1명<br/>**프런트엔드:** 본인 1명 |
 | **사용 스택 (프런트엔드)** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge) |
 | **사용 스택 (디자인/협업)** | ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=for-the-badge) |
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/aba89ada-c6ea-4494-be71-ea10972faab5" />
+
+<Storybook 예시, [이미지 출처](https://storybook.js.org/)>
 
 **문제 정의:** 공통 컴포넌트 부족으로 매번 같은 기능을 재구현, 디자인 일관성 깨짐. 요구사항이 빈번하게 업데이트되는 환경에서 확장 가능하고 유연한 설계 필요. 작업량을 뒷받침하기 위해 채용된 신규 인턴에 대한 온보딩 필요.
 
