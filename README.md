@@ -72,7 +72,7 @@
   * 안전장치·데이터 보정 기능 구현으로 작업 오류 최소화
   * **성과:** 작업 속도 1.5\~2배 향상, 유지보수 용이성 확보
 
-  [프로젝트 상세]([https://github.com/](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%EC%82%AC%EB%82%B4-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EA%B0%9C%EC%84%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-%EB%AA%A8%EB%8D%B8%EC%9A%A9-roi-%EA%B8%B0%EB%A1%9D-%EC%9B%B9-%ED%88%B4-%EA%B0%9C%EB%B0%9C))
+  [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%EC%82%AC%EB%82%B4-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EA%B0%9C%EC%84%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-%EB%AA%A8%EB%8D%B8%EC%9A%A9-roi-%EA%B8%B0%EB%A1%9D-%EC%9B%B9-%ED%88%B4-%EA%B0%9C%EB%B0%9C)
 
 ---
 
@@ -84,7 +84,7 @@
   * AWS S3 + GitHub 배포 자동화
   * **성과:** 6개 홈페이지 성공 론칭, 유지보수 효율성 확보
 
-  [프로젝트 상세]([https://github.com/](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC))
+  [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC)
 
 * **사내 디자인 솔루션 컴포넌트 개발 (2022.06 \~ 2022.12)**
 
@@ -92,4 +92,4 @@
   * Storybook 상에서 디자인 검토 및 QA 효율화
   * **성과:** 개발 생산성 및 디자인 일관성 향상, 팀 역량 강화
 
-  [프로젝트 상세]([https://github.com/](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC))
+  [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC)
