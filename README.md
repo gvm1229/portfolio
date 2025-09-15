@@ -69,28 +69,28 @@
 
 * **인천광역시 ITS 구축: 통행/신호 API 서버 개발 (2024.08 \~ 2025.04)**
 
-  * **핵심 역할** : 프로젝트 리드, 핵심 로직 고안, 효율적인 개발 계획 수립
+>  * **핵심 역할** : 프로젝트 리드, 핵심 로직 고안, 효율적인 개발 계획 수립
 
-  * **주요 성과:**
-  * FastAPI + Pandas 기반 대규모 교통 데이터 처리 및 실시간 시뮬레이션 구현
-  * SUMO 기반 도로/교차로 시뮬레이션, Mapper 개발로 교차로 ID 문제 해결
-  * 폐쇄망 서버 환경에서 Docker 이미지 빌드·배포 자동화
-  * 실시간 교통 시뮬레이션 기여, 업무 효율·의사결정 속도 향상
+>  * **주요 성과:**
+>  * FastAPI + Pandas 기반 대규모 교통 데이터 처리 및 실시간 시뮬레이션 구현
+>  * SUMO 기반 도로/교차로 시뮬레이션, Mapper 개발로 교차로 ID 문제 해결
+>  * 폐쇄망 서버 환경에서 Docker 이미지 빌드·배포 자동화
+>  * 실시간 교통 시뮬레이션 기여, 업무 효율·의사결정 속도 향상
  
-  * **사용 스택:** Python FastAPI  ·  Pandas  ·  DLR SUMO  ·  Tibero DB  ·  PostgreSQL DB  ·  Docker
+>  * **사용 스택:** Python FastAPI  ·  Pandas  ·  DLR SUMO  ·  Tibero DB  ·  PostgreSQL DB  ·  Docker
 
   [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%EA%B2%BD%EB%A0%A51-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EA%B8%80%EB%A1%9C%EB%B2%8C%EB%B8%8C%EB%A6%BF%EC%A7%80)
  
 * **AI 모델 파일 관리 시스템 (2024.04 \~ 2024.07)**
 
-  * **핵심 역할** : 프로젝트 리드, 프런트엔드 디자인 및 개발, 각종 공정의 자동화로 효율 향상 도모
+>  * **핵심 역할** : 프로젝트 리드, 프런트엔드 디자인 및 개발, 각종 공정의 자동화로 효율 향상 도모
 
-  * **주요 성과:**
-  * NAS API 기반 파일 업로드·분류·중복 차단 웹 시스템 개발
-  * Storybook 활용 컴포넌트 관리 및 배포 반자동화
-  * 파일 관리 효율 개선, 협업 및 유지보수 생산성 향상
+>  * **주요 성과:**
+>  * NAS API 기반 파일 업로드·분류·중복 차단 웹 시스템 개발
+>  * Storybook 활용 컴포넌트 관리 및 배포 반자동화
+>  * 파일 관리 효율 개선, 협업 및 유지보수 생산성 향상
  
-  * **사용 스택:** React  ·  Next.js  ·  Tailwind CSS  ·  Radix UI  ·  TypeScript  ·  Zustand  ·  NestJS  ·  PostgreSQL DB  ·  Synology NAS API  ·  Docker
+>  * **사용 스택:** React  ·  Next.js  ·  Tailwind CSS  ·  Radix UI  ·  TypeScript  ·  Zustand  ·  NestJS  ·  PostgreSQL DB  ·  Synology NAS API  ·  Docker
 
   [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%EC%82%AC%EB%82%B4-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EA%B0%9C%EC%84%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-%EB%AA%A8%EB%8D%B8-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C)
 
@@ -100,26 +100,26 @@
 
 * **클라이언트 홈페이지 개발 (2022.10 \~ 2022.12)**
 
-  * **핵심 역할** : 프로젝트 일원, 프런트엔드 개발, 프로토타입 및 완성 웹사이트 배포
+>  * **핵심 역할** : 프로젝트 일원, 프런트엔드 개발, 프로토타입 및 완성 웹사이트 배포
 
-  * **주요 성과:**
-  * 맞춤형 기능·디자인 반영, Storybook 기반 컴포넌트 테스트
-  * AWS S3 + GitHub 배포 자동화
-  * 6개 홈페이지 성공 론칭, 유지보수 효율성 확보
+>  * **주요 성과:**
+>  * 맞춤형 기능·디자인 반영, Storybook 기반 컴포넌트 테스트
+>  * AWS S3 + GitHub 배포 자동화
+>  * 6개 홈페이지 성공 론칭, 유지보수 효율성 확보
  
-  * **사용 스택:** React  ·  Tailwind CSS  ·  TypeScript  ·  Amazon S3  ·  GitHub
+>  * **사용 스택:** React  ·  Tailwind CSS  ·  TypeScript  ·  Amazon S3  ·  GitHub
 
   [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC)
 
 * **사내 디자인 솔루션 컴포넌트 개발 (2022.06 \~ 2022.12)**
 
-  * **핵심 역할** : 프로젝트 일원, 프런트엔드 디자인 및 개발, 인턴 멘토링
+>  * **핵심 역할** : 프로젝트 일원, 프런트엔드 디자인 및 개발, 인턴 멘토링
 
-  * **주요 성과:**
-  * React + Tailwind CSS 기반 50여 개 공통 컴포넌트 개발 및 리팩토링
-  * Storybook 상에서 디자인 검토 및 QA 효율화
-  * 개발 생산성 및 디자인 일관성 향상, 팀 역량 강화
+>  * **주요 성과:**
+>  * React + Tailwind CSS 기반 50여 개 공통 컴포넌트 개발 및 리팩토링
+>  * Storybook 상에서 디자인 검토 및 QA 효율화
+>  * 개발 생산성 및 디자인 일관성 향상, 팀 역량 강화
  
-  * **사용 스택:** React  ·  Tailwind CSS  ·  JavaScript  ·  Storybook  ·  GitHub
+>  * **사용 스택:** React  ·  Tailwind CSS  ·  JavaScript  ·  Storybook  ·  GitHub
 
   [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-%EB%B0%B0%ED%8F%AC)
