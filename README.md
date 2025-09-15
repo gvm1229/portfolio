@@ -78,19 +78,6 @@
 
   [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%EC%82%AC%EB%82%B4-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EA%B0%9C%EC%84%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-%EB%AA%A8%EB%8D%B8-%ED%8C%8C%EC%9D%BC-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C)
 
-* **ROI 기록 웹 툴 (2023.08 \~ 2023.10)**
-
-  * **핵심 역할** : 1인 개발, 핵심 로직 고안, 프런트엔드 디자인 및 개발
-
-  * **주요 성과:**
-  * OpenLayers 기반 ROI 작성 웹 툴 개발
-  * 안전장치·데이터 보정 기능 구현으로 작업 오류 최소화
-  * 작업 속도 1.5\~2배 향상, 유지보수 용이성 확보
- 
-  * **사용 스택:** React  ·  Vite  ·  Tailwind CSS  ·  Ant Design  ·  Redux  ·  OpenLayers  ·  Netlify
-
-  [프로젝트 상세](https://github.com/gvm1229/portfolio/blob/master/pages/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C.md#%EC%82%AC%EB%82%B4-%EC%97%85%EB%AC%B4-%ED%9A%A8%EC%9C%A8-%EA%B0%9C%EC%84%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-ai-%EB%AA%A8%EB%8D%B8%EC%9A%A9-roi-%EA%B8%B0%EB%A1%9D-%EC%9B%B9-%ED%88%B4-%EA%B0%9C%EB%B0%9C)
-
 ---
 
 ### Heyboss Technologies LLC.
