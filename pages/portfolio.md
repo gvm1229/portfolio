@@ -4,6 +4,9 @@
 
 ### 프로젝트 요약
 
+<img width="600" alt="home" src="https://github.com/user-attachments/assets/869ad251-2202-4f4c-bb1d-44584f3fee17" />
+<img width="600" alt="calc" src="https://github.com/user-attachments/assets/5d1dcb46-c451-4f24-a919-b169cbafc08f" />
+
 메이플스토리의 각종 장비 세트의 경매장 가격 변동 내역을 그래프로 볼 수 있고, 원하는 목표치를 달성하기 위한 장비의 최적 비용 계산이 가능한 편의성 사이트.
 
 -----
@@ -14,8 +17,8 @@
 | **진행 기간** | 2025.11 \~ 2025.12 (2개월) |
 | **참가 인원, 역할, 기여도** | 프로젝트 리드 및 백엔드: 1명 (80%)<br/>**협업 및 프런트엔드: 본인 1명 (20%)** |
 | **프로젝트 링크** | [maple-economy GitHub 리포지토리](https://github.com/Jae2928/maple-economy) |
-| **사용 스택 (프런트엔드)** | [![Node.js](https://img.shields.io/badge/Node.js-%5E20.19.0-gray?labelColor=339933&style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/en)](https://nodejs.org/en) [![React](https://img.shields.io/badge/React-19.2.0-gray?labelColor=222222&style=for-the-badge&logo=React&link=https://react.dev/)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-16.0.8-gray?labelColor=d4d4d8&style=for-the-badge&logo=Next.js&logoColor=black&link=https://nextjs.org/)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-gray?labelColor=06B6D4&style=for-the-badge&logo=Tailwind+CSS&logoColor=white&link=https://tailwindcss.com/)](https://tailwindcss.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-%5E5.4.5-gray?labelColor=3178C6&style=for-the-badge&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/) |
-| **사용 스택 (백엔드)** | [![Supabase](https://img.shields.io/badge/Supabase-2.87.1-gray?labelColor=47A248&style=for-the-badge&logo=supabase&logoColor=white&link=https://supabase.com/)](https://supabase.com/) |
+| **사용 스택 (프런트엔드)** | [![Node.js](https://img.shields.io/badge/Node.js-%5E20.19.0-gray?labelColor=339933&style=for-the-badge&logo=Node.js&logoColor=white&link=https://nodejs.org/en)](https://nodejs.org/en) [![React](https://img.shields.io/badge/React-19.2.0-gray?labelColor=222222&style=for-the-badge&logo=React&link=https://react.dev/)](https://react.dev/) [![Next.js](https://img.shields.io/badge/Next.js-16.0.8-gray?labelColor=d4d4d8&style=for-the-badge&logo=Next.js&logoColor=black&link=https://nextjs.org/)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4.0.0-gray?labelColor=06B6D4&style=for-the-badge&logo=Tailwind+CSS&logoColor=white&link=https://tailwindcss.com/)](https://tailwindcss.com/) [![TypeScript](https://img.shields.io/badge/TypeScript-%5E5.4.5-gray?labelColor=3178C6&style=for-the-badge&logo=TypeScript&logoColor=white&link=https://www.typescriptlang.org/)](https://www.typescriptlang.org/) |
+| **사용 스택 (백엔드)** | [![Supabase](https://img.shields.io/badge/Supabase-2.87.1-gray?labelColor=1c1c1c&style=for-the-badge&logo=supabase&logoColor=3ecf8e&link=https://supabase.com/)](https://supabase.com/) |
 
 -----
 
@@ -35,6 +38,18 @@ React, Next.js, Supabase (PostgreSQL) 를 사용한 풀스택 프로젝트로, �
 -----
 
 ### 경험 및 성과
+
+* **간편한 유저 경험을 중심으로 설계한 웹사이트**
+
+<img width="600" alt="calc_action" src="https://github.com/user-attachments/assets/ad04cecc-e86e-49b7-a025-11b9db470fab" />
+
+그래프는 그저 보면 되는 요소인 반면, 장비 최적 비용 계산기는 말 그대로 사용자가 직접 상호작용하는 부분이기 때문에, 사용자가 느끼기에 간편해야만 함. 설명이 필요없는 직관적인 디자인, 실질적으로 누를 오로지 2개의 버튼으로 사용자가 정보량에 압도되거나 무얼 해야 할지 헷갈리는 일 없이 간편하게 원하는 바를 이룰 수 있도록 함.
+
+* **피드백을 실시간으로 받으며 사이트 지속적 개선**
+
+<img width="600" alt="Screenshot" src="https://github.com/user-attachments/assets/99fb459e-05ac-405a-8b10-7aa66a294d96" />
+
+웹사이트 맨 밑에는 이메일 링크를 등록해두어 유저로부터 피드백을 받을 수 있도록 하였으며, "URL 을 통해 닉네임이 자동으로 입력되게 하고 싶다" 등의 피드백을 받아 실 적용하여 사이트를 지속적으로 개선하였음.
 
 -----
 
